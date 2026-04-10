@@ -8,7 +8,9 @@ Recreate a composition inspired by the style of ***[Piet Mondrian](https://es.wi
 - thick borders (border)
 - block layout / distribution`
 
-It must be look like this:
+It must look like this:
+
+<img width="569" height="663" alt="Screenshot 2026-04-10 120337" src="https://github.com/user-attachments/assets/f5b8d692-7ee1-4ecc-a592-dfa299fe31df" />
 
 
 ## Statement
@@ -85,11 +87,12 @@ white → #F8F9FA
 How it look:
 
 
-
-
+<img width="584" height="602" alt="Screenshot 2026-04-10 115621" src="https://github.com/user-attachments/assets/7fe26fe9-9c9a-4148-9ab9-eaf9d4cce96c" />
 
 
 
 
 Added hover also, then user puts cursor on each boxes, cursor turns pointer and box turns 1.2 bigger and has 8px border:
+<img width="556" height="578" alt="Screenshot 2026-04-10 115654" src="https://github.com/user-attachments/assets/0406b623-786d-41c9-a7cb-b60975af74e0" />
+<img width="569" height="589" alt="Screenshot 2026-04-10 115709" src="https://github.com/user-attachments/assets/89b66d5c-cc6f-4aa9-9ffb-a06e488aad71" />
 
