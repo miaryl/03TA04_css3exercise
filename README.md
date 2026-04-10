@@ -93,6 +93,8 @@ How it look:
 
 
 Added hover also, then user puts cursor on each boxes, cursor turns pointer and box turns 1.2 bigger and has 8px border:
+
+
 <img width="556" height="578" alt="Screenshot 2026-04-10 115654" src="https://github.com/user-attachments/assets/0406b623-786d-41c9-a7cb-b60975af74e0" />
 <img width="569" height="589" alt="Screenshot 2026-04-10 115709" src="https://github.com/user-attachments/assets/89b66d5c-cc6f-4aa9-9ffb-a06e488aad71" />
 
